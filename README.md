@@ -1,4 +1,4 @@
-# DSC KIIT DISCORD BOT
+# DevPro DISCORD BOT
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -35,7 +35,7 @@ Other Steps
 
 Code Structure: 
 
-- 📂 __dsckiitbot__
+- 📂 __DevProBot__
    - 📄 [LICENSE](LICENSE)
    - 📄 [Procfile](Procfile)
    - 📄 [README.md](README.md)
